@@ -1,7 +1,7 @@
-<div align="center">
-  <img src="https://s4.ax1x.com/2022/01/21/7RE7LT.md.jpg" alt="Hello, Mr. Shu.jpg" border="0" width="100%" />
-  <h1>《Hello, Mr. Shu》</h1>
-</div>
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,%20there!%20%F0%9F%91%8B&center=true&size=30&color=000000&font=Roboto"></h1>
+
+<img align="center" src="https://s4.ax1x.com/2022/01/21/7RE7LT.md.jpg" alt="Hello, Mr. Shu.jpg" border="0" width="100%" />
+<h2 align="center">《Hello, Mr. Shu》</h2>
 
 
 **Languages and Tools:**  
