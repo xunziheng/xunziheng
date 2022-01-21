@@ -1,4 +1,4 @@
-<img align="center" src="https://s4.ax1x.com/2022/01/21/7RE7LT.md.jpg" alt="Hello, Mr. Shu.jpg" border="0" width="100%" />
+<img align="center" src="https://s4.ax1x.com/2022/01/21/7WPwVJ.md.png" alt="Hello, Mr. Shu.jpg" border="0" width="100%" />
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,%20Mr.%20Shu%20%F0%9F%91%8B&center=true&size=30&color=000000&font=Roboto&vCenter=true"></p>
 <p align="center"><code>Everyone laughs at brother Shu, everyone is brother Shu.</code></p>
 
