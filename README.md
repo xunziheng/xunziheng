@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://s4.ax1x.com/2022/01/21/7RE7LT.md.jpg" alt="Hello, Mr. Shu.jpg" border="0" />
+  <img src="https://s4.ax1x.com/2022/01/21/7RE7LT.md.jpg" alt="Hello, Mr. Shu.jpg" border="0" width="100%" />
   <h1>《Hello, Mr. Shu》</h1>
 </div>
 
