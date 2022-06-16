@@ -9,6 +9,3 @@
 <code><img height="20" src="https://s4.ax1x.com/2022/01/21/7RukRJ.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=xunziheng&show_icons=true&include_all_commits=true&hide_border=true" alt="xunziheng's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xunziheng&layout=compact&hide_border=true" /> |
-| :-------------: | :-------------: |
